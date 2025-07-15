@@ -1,0 +1,13 @@
+# Large data files
+aml_expression_matrix.csv
+*.soft.gz
+GSE*_family.soft.gz
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Temporary
+*.tmp
+*.bak
