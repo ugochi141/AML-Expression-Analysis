@@ -1,0 +1,22 @@
+
+Clustering Analysis Summary
+==========================
+Samples analyzed: 537
+Genes used: 500
+Optimal clusters: 4
+
+Cluster Distribution:
+
+Cluster 0: 159 samples (29.6%)
+Cluster 1: 40 samples (7.4%)
+Cluster 2: 36 samples (6.7%)
+Cluster 3: 302 samples (56.2%)
+
+Files Generated:
+- plots/clustering_analysis.png: Elbow plot and dendrogram
+- plots/cluster_pca_visualization.png: PCA with cluster colors
+- plots/cluster_specific_genes.png: Top genes per cluster
+- results/sample_clusters.csv: Cluster assignments
+- results/cluster_expression_profiles.csv: Mean expression per cluster
+
+These clusters may represent different AML subtypes with distinct molecular signatures.
