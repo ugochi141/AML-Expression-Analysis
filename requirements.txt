@@ -7,3 +7,12 @@ plotly
 scikit-learn
 scipy
 GEOparse
+
+# GUI dependencies
+tkinter
+pillow
+
+# Additional analysis tools
+jupyter
+ipywidgets
+openpyxl
